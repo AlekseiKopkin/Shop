@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop.Database2_kopiaDataSet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Shop.Database2_kopiaDataSet.Товары_с_ценой_выше_среднейRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ДоставкаRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ХарактеристикиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказыRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.Характиристики_ТоваровRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ПоставщикиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.Восемь_самых_дорогих_товараRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказаноRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Товары_с_ценой_выше_среднейRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Промежуточная_сумма_заказаDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ХарактеристикиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.КлиентыDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказаноRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ЗаказыRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ДоставкаDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Восемь_самых_дорогих_товараRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.СотрудникиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.Промежуточная_сумма_заказаRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.СотрудникиRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ДоставкаRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ТоварыRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.КлиентыRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.Промежуточная_сумма_заказаRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Товары_с_ценой_выше_среднейDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ХарактеристикиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказыRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Характиристики_ТоваровRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ПоставщикиDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.КлиентыRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказаноDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Товары_с_ценой_выше_среднейRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Восемь_самых_дорогих_товараDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ТоварыDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Восемь_самых_дорогих_товараRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ЗаказаноRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.КлиентыRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Промежуточная_сумма_заказаRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ТоварыRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.Характиристики_ТоваровRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ХарактеристикиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop.Database2_kopiaDataSet.ПоставщикиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ПоставщикиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.СотрудникиRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ДоставкаRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.Характиристики_ТоваровDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.СотрудникиRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop.Database2_kopiaDataSet.ЗаказыDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Shop.Database2_kopiaDataSet.ТоварыRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+    </NestedTypes>
+    <InheritanceLine Type="System.Data.DataSet" FixedFromPoint="true">
+      <Path>
+        <Point X="3.5" Y="14" />
+        <Point X="1.25" Y="14" />
+        <Point X="1.25" Y="13.472" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ICAAAgCBAyIARMPBJAQBQCAQAMoiWlggBQAwECWABLA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Goods" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAUADAIoBiBAACEAAACCxk4AAAAgnQQBQAAAAQ=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.MainShop" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAMAgAAAAABAMAAAAAAA=</HashCode>
+      <FileName>MainShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ДоставкаTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ЗаказаноTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ЗаказыTableAdapter">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.КлиентыTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ПоставщикиTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.СотрудникиTableAdapter">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ТоварыTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.ХарактеристикиTableAdapter" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.Характиристики_ТоваровTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.Восемь_самых_дорогих_товараTableAdapter" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.Промежуточная_сумма_заказаTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.Товары_с_ценой_выше_среднейTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Database2_kopiaDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCBACwIAAhABAURACAAMAAwQAACgAAIAIQAgAEABAU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Properties.Settings" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.ComponentModel.Component">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Data.DataSet" Collapsed="true">
+    <Position X="3.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

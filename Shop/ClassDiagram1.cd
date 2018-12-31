@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop.AccessToSystem">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAgAAAAAAgAAAAAAAgAAA=</HashCode>
+      <FileName>AccessToSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.AddClient">
+    <Position X="14.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAIABAQAACAAABiIAAIACAAEEAAAAAAAAA=</HashCode>
+      <FileName>AddClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.AddGoods">
+    <Position X="16.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAIABAQAACAAABCIAAIACAAEEIBAAAAAAA=</HashCode>
+      <FileName>AddGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.AddManager">
+    <Position X="18.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAIABCQAECAAABSAAAIACAAEEAAAAAAAAA=</HashCode>
+      <FileName>AddManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.AddOrders">
+    <Position X="20" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAIABAQAACAAABCIAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>AddOrders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.change_password">
+    <Position X="2.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>change_password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Client">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAEIGAAwRAAAAAgQAQAAAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ClientFactory">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAABAABAAAAAAAAAAEAAAACAAAAAEA=</HashCode>
+      <FileName>ClientFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Clients">
+    <Position X="30" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAEAECAAC4RgAAAGABAAAAAAA=</HashCode>
+      <FileName>Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ClientType">
+    <Position X="36" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAQAABAAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ClientTypeCol">
+    <Position X="18.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.DelClient">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>DelClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.DelGoods">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>DelGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.DelManager">
+    <Position X="25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>DelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.field" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.GoodsType" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.TypeGoods" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Name" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Cost" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Valuta" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Code" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Filter" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAIAAAAAABABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.goodsFilter" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.FilterFormFilterForm" Collapsed="true">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.priceToFilter" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.valutaFilter" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.nameFilter" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.FilterCol">
+    <Position X="12.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>FilterCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.FilterContr">
+    <Position X="14" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQA=</HashCode>
+      <FileName>FilterContr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.FilterForm">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAIABEAAACAAABCIAAIAAAAEEAAIQEAAAA=</HashCode>
+      <FileName>FilterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.GoodFactory">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEAAAAgAAABAAAAAAAAAABAAFAAAAAAAAAAAA=</HashCode>
+      <FileName>GoodFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Goods">
+    <Position X="14.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAACAAQAQAAAAAAAAAAAAAAAAAAQAAAAAoAAA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.GoodsFilter">
+    <Position X="16" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAABAAAAAAAAAEBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoodsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.GoodsForm">
+    <Position X="33.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIABAAAACAAAECAAA4BgQAAHAAEAQAAAA=</HashCode>
+      <FileName>GoodsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.GoodsTypeCol">
+    <Position X="13.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoodsTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Manager">
+    <Position X="14.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIEgAIAAAwRAAAAAgIAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ManagerFactory">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAIBAACAAIQAAAAAAEAAAAACAAAAAA=</HashCode>
+      <FileName>ManagerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.managers">
+    <Position X="28" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAESAAA4JwAAAGAAAABAAAA=</HashCode>
+      <FileName>managers.cs</FileName>
+      <NewMemberFileName>Managers.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ManagerType">
+    <Position X="33.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAQAIAAAAAAA=</HashCode>
+      <FileName>ManagerType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ManagerTypeCol">
+    <Position X="23.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACBAAAADEAAAAAAABAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ManagerTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Order">
+    <Position X="21.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAAAgQAAAACAgAAAEBAAAAAAAAAAABAAgAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.OrderFactory">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAABAEAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>OrderFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.OrdersForm">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAACACAAAECAAA6BgAAAEAAAAAAAAA=</HashCode>
+      <FileName>OrdersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Password">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Program" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.ShopForm">
+    <Position X="31.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAQABAAAKCgAAACAAAAARYAABFUEAAADCA=</HashCode>
+      <FileName>ShopForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.TypeGoodsCol">
+    <Position X="16" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAABAAAAAAAAAAAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>TypeGoodsCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.TypeGoodsForm">
+    <Position X="26" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAECAAAwAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>TypeGoodsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.User">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhAAAAAQAAAAAAAAAQAAAAEAAACAAAAAgAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Properties.Resources" Collapsed="true">
+    <Position X="18" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Properties.Settings" Collapsed="true">
+    <Position X="19.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.AccessToSystemcs" Collapsed="true">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAgAAAAAAgAAAAAAggAAA=</HashCode>
+      <FileName>AccessToSystemcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
